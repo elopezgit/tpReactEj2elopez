@@ -7,7 +7,7 @@ function App() {
 
   return (
     <main className=' container my-5'>
-      <Informacion></Informacion>
+      <Informacion mensaje = 'My friend!' ></Informacion>
     </main>
     
   )
